@@ -1,4 +1,4 @@
-# Kotlin Enjoyer
+# Java & Kotlin Enjoyer
 </p>
 
 
